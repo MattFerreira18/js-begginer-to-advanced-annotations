@@ -4,8 +4,7 @@ const peoples = [
   { id: 2, name: 'user3' },
 ];
 
-// const newPeoples = {};
-
+// const newPeoples = {}
 // for (const { id, name } of peoples) {
 //   newPeoples[id] = { id, name };
 // }
